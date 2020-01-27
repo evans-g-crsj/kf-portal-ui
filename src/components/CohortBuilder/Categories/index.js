@@ -125,6 +125,8 @@ const CATEGORY_FIELDS = {
   availableData: [
     'available_data_types',
     'files.sequencing_experiments.experiment_strategy',
+    'files.sequencing_experiments.library_prep',
+    'files.sequencing_experiments.library_selection',
     'family.family_compositions.available_data_types',
   ],
 };
