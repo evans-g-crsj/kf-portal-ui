@@ -35,7 +35,6 @@ const formatDataset = data => [
 
 const SurvivalCardContent = styleComponent(CardContent, 'survivalChart-card-content');
 
-
 export class SurvivalChart extends React.Component {
   state = {
     tooltip: {
